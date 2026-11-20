@@ -20,10 +20,10 @@ Computer science student at the Technical University of Košice (TUKE), Faculty 
 
 ## Skills
 
-**Languages:** Java, C, C++, Python / MicroPython, JavaScript (React)
-**Tools:** Git, Maven, Gradle, Vite, PostgreSQL, Linux
+- **Languages:** Java, C, C++, Python / MicroPython, JavaScript (React)
+- **Tools:** Git, Maven, Gradle, Vite, PostgreSQL, Linux
 
-## Contact
+
 ## Contact
 
 - Email: [ss7206478@gmail.com](mailto:ss7206478@gmail.com)
