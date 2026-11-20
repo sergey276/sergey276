@@ -24,5 +24,12 @@ Computer science student at the Technical University of Košice (TUKE), Faculty 
 **Tools:** Git, Maven, Gradle, Vite, PostgreSQL, Linux
 
 ## Contact
+Gmail:
+ss7206478@gmail.com
 
-<!-- add your email or LinkedIn here -->
+Telegram:
+@Serhey2002I2007
+
+Instagram:
+s.sergiii.s
+
